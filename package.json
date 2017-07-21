@@ -5,7 +5,9 @@
     "author": "",
     "main": "src/index.js",
     "ruff": {
-        "dependencies": {},
+        "dependencies": {
+            "hg7881": "^1.1.1"
+        },
         "version": 1
     }
 }
